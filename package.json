@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "cypress": "^12.17.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run --spec <spec_file>": "cypress run --spec <spec_file>",
+    "cypress:run:headless": "cypress run --headless",
+    "cypress:run:parallel": "cypress run --parallel",
+    "cypress:run:chrome": "cypress run --browser chrome",
+    "cypress:run:firefox": "cypress run --browser firefox",
+    "cypress:run:edge": "cypress run --browser edge"
+    },
+  "dependencies": {
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "lint": "^0.8.19",
+    "prettier": "^3.0.0"
+  }
+}

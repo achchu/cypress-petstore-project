@@ -1,0 +1,22 @@
+# dependencies
+/node_modules
+yarn-error.log
+# testing
+/cypress/screenshots
+/cypress/videos
+/cypress/reports
+
+# production
+/build
+
+# dotenv environment variables file
+.cypress.env.json
+
+# IDE / text editor
+.vscode
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.sublime*

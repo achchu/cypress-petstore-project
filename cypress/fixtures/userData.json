@@ -1,0 +1,9 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "dob": {
+        "day": "01",
+        "month": "01",
+        "year": "1990"
+    }
+}
