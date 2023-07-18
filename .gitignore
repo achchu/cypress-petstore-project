@@ -10,7 +10,7 @@ yarn-error.log
 /build
 
 # dotenv environment variables file
-.cypress.env.json
+cypress.env.json
 
 # IDE / text editor
 .vscode
